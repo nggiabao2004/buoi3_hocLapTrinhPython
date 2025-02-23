@@ -1,3 +1,4 @@
+#java regex
 import re
 chuoi=input("Nhap vao chuoi")
 print(re.findall(r'\d',chuoi))
